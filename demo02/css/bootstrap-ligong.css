@@ -1,0 +1,62 @@
+body{
+	font-family: 'Microsoft YaHei',sans-serif;
+}
+
+/*===后台首页===*/
+/* 热帖 */
+.list-group-item {
+    margin-bottom: -3px;
+}
+/* 进度条 */
+.progress{
+	margin-bottom: 15px;
+}
+/* 留言板 */
+.media-object {
+    width: 64px;
+}
+/* 提交按钮 */
+.container .tijiao{
+	margin-top: 16px;
+}
+/*===后台首页===*/
+
+/*===用户管理===*/
+.page-header{
+	margin-top: 0;
+}
+.page-header h1{
+	margin-top: 0;
+	font-size: 16px;
+}
+/*===用户管理===*/
+
+/*===用户搜索===*/
+.user_search{
+	border: 1px solid #ddd;
+    border-top: none;
+    padding: 14px;
+}
+/*===用户搜索===*/
+
+/*===添加内容===*/
+.content-post{
+	margin-top: 20px;
+}
+/*===添加内容===*/
+
+/*===标签管理*/
+.cm2-tag{
+    padding-top: 15px;
+}
+.cm2-tag .alert{
+	margin-left: 15px;
+}
+/*===标签管理*/
+
+/* footer */
+footer{
+	text-align: center;
+	font-weight: 400;
+	padding: 20px 0;
+}
